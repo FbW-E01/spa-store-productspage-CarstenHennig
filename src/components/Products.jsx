@@ -11,3 +11,13 @@ export default function Products() {
         </div>
     )
 }
+
+
+                // switch (currency) {
+                //     case "de-de": setLocale("de-de");
+                //     break;
+                //     case "en-gb": setLocale("en-gb");
+                //     break;
+                //     case "en-us": setLocale("en-us");
+                //     break;
+                //     default: setLocale("de-de");
